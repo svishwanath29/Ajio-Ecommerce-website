@@ -36,7 +36,7 @@ Ajio is a fully responsive ecommerce website, maximum compatiblities in all mobi
 
 1. Clone the repository:
 
-git clone https://github.com/svishwanath29/AjioEcommerce-website.git  
+git clone file:///C:/Users/APPLE/Desktop/Ajio%20Ecommerce%20site/index.html 
 cd ecommerce-website
 
 
